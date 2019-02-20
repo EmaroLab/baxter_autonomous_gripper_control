@@ -1,0 +1,4 @@
+In this folder:
+	
+	- the Keras sequential model with a name meaning -> my_model[sequence_leght]-[validation_accuracy].h5
+	- data for the zscore normalization in real time
