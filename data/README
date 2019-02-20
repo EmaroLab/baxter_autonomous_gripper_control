@@ -1,0 +1,5 @@
+This folder contains:
+
+	- raw_sequences -> data coming from the ROS recorder
+	- interpolation_stats -> statistics data for each sequence after the interpolation
+	- dataset -> interpolated data, coming from .../scripts/RawData_Interpolate.py
