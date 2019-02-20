@@ -1,4 +1,4 @@
-# baxter_autonomous_gripper_control
+# [Baxter autonomous gripper control](https://emarolab.github.io/baxter_autonomous_gripper_control/)
 This package collects ROS nodes for the Baxter autonomous gripper control and python scripts useful to design a predictive model for the Baxter's gripper behavior.
 
 
