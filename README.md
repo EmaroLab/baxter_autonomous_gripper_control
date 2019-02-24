@@ -30,6 +30,7 @@ For the purpose, inertial data, from a smartwatch and Baxter's joints, has been 
 * **_model_** folder
   * model.h5 &nbsp;:arrow_right:&nbsp;  _The chosen model from the RNN_baxter_graspimg.py and used by auto_grasping.py node_ 
   * mean_std_zscore &nbsp;:arrow_right:&nbsp; _File .txt where useful data for the normalization are written_
+  
 
 #### Step1: Autonomous grasping
 **_Currently_**, this study has reached the goal of the autonomous grasping with the following conclusions:
@@ -37,3 +38,9 @@ For the purpose, inertial data, from a smartwatch and Baxter's joints, has been 
   * The Baxter grasping action can be predicted using objects of different shape associated with different ways of grabbing      (e.g. a glass grabbed from the side or a ball grabbed from above)
   * It is not possible, with used technologies, to discriminate between the grabbing action and the release action without       manipulating raw data such that: every time sequence of the dataset take into account the initial state of the gripper       for that sequence.
 > A demonstration is available at [LINK VIDEO] ___
+
+
+## Documentation
+
+[emarolab.github.io/baxter_autonomous_gripper_control/](https://emarolab.github.io/baxter_autonomous_gripper_control/)
+
